@@ -1,0 +1,25 @@
+{
+  "name": "mofron-event-clicksound",
+  "version": "0.0.1",
+  "description": "click sound event for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-event-clicksound.git"
+  },
+  "dependencies": {
+    "mofron-event-click" : ""
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-event-clicksound/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-event-clicksound#readme"
+}
